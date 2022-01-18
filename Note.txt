@@ -1,0 +1,8 @@
+conda create --name myenv
+conda activate myenv
+conda deactivate
+
+-----------------
+pip install tensorflow_gpu==2.4.0
+
+
